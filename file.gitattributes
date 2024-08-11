@@ -1,3 +1,0 @@
-*.v linguist-language=Verilog
-*.sv linguist-language=SystemVerilog
-*.tcl linguist-vendored
